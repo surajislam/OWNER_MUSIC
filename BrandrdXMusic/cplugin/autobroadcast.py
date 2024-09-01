@@ -23,7 +23,7 @@ BUTTONS = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ BRAND ๏",
-                url=f"https://t.me/learningbots79",
+                url=f"https://t.me/II_SIMPLE_II",
             )
         ]
     ]
@@ -44,7 +44,7 @@ BUTTON = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/LB_Music_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/misskittymusicbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
